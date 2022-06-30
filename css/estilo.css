@@ -1,0 +1,57 @@
+.imgagen-400-medio {
+    width: 400px;
+    margin-left: 35%;
+}
+
+.img-pop {
+    float: right;
+    margin-left: 10px;
+    width: 400px;
+}
+
+.img-caribbean {
+    float: left;
+    margin-right: 10px;
+    width: 450px;
+}
+
+.img-animal-kingdom {
+    float: right;
+    margin-left: 10px;
+    width: 550px;
+}
+
+.img-mickey-minnie {
+    position: absolute;
+    width: 100%;
+}
+
+.titulo-rosa-centrado {
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif;
+    font-weight: 100;
+    letter-spacing: 20px;
+    text-align: center;
+    font-size: 30px;
+    color: rgb(192, 84, 151);
+}
+
+.titulo-hoteles {
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif;
+    color: rgb(192, 84, 151);
+    font-weight: 100;
+    letter-spacing: 8px;
+}
+
+.parrafo {
+    color: rgb(50, 98, 166);
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif;
+}
+
+.titulo-hoteles2 {
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif;
+    color: rgb(192, 84, 151);
+    font-weight: 100;
+    letter-spacing: 8px;
+    text-align: justify;
+}
+
